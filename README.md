@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @siddharth91832
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Siddharth Goyal
+- 👀 I’m interested in Web App and ML.
+- 🌱 I’m currently learning web dev.
+- 💞️ I’m looking to collaborate on open source web rojects.
+- 📫 How to reach me 
 
 <!---
 siddharth91832/siddharth91832 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
