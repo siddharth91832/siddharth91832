@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siddharth Goyal
 - 👀 I’m interested in Web App and ML.
 - 🌱 I’m currently learning web dev.
-- 💞️ I’m looking to collaborate on open source web rojects.
+- 💞️ I’m looking to collaborate on open source web projects.
 - 📫 How to reach me sid91823@gmail.com
 
 <!---
